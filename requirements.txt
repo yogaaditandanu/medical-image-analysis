@@ -1,0 +1,7 @@
+streamlit
+pillow
+agno
+duckduckgo-search
+google-genai
+ddgs
+python-dotenv
